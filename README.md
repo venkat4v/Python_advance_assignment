@@ -17,3 +17,6 @@ https://docs.google.com/spreadsheets/d/1vSOhCzwwFV8n_JqIca-LX4voGE4VFEUP/edit#gi
 "Thank you for bringing this to our attention. We want to make things right."
 "I'm here to help you find a solution that works for you."
 "I'm sorry for any inconvenience this has caused you."
+
+
+How can a sports team use data science to gain a competitive advantage, such as in player scouting or game strategy?
